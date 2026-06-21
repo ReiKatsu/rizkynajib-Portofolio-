@@ -19,14 +19,9 @@ The website was developed using Next.js, TypeScript, and Tailwind CSS with a foc
 - Contact information
 - Responsive layout
 
-## Running Locally
+## Link
 
-```bash
-npm install
-npm run dev
-```
-
-Open http://localhost:3000 to view the website.
+https://rizkynajib-portofolio.vercel.app
 
 ## Author
 
